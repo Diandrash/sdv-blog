@@ -1,0 +1,6 @@
+COLOR PALETTE SDV-BLOG
+
+#030f38 primary dark blue
+#ffffff secondary text white
+#05b9f2 tertiary light blue
+#07165c secondary light smooth blue

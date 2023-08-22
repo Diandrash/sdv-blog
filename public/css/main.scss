@@ -1,0 +1,23 @@
+// Custom.scss
+// Option A: Include all of Bootstrap
+
+//FONT STYLES
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;600&display=swap');
+
+
+//Variables
+$primary : #030f38;
+$secondary : #05b9f2;
+$tertiary : #07165c;
+$primary-text : #ffffff;
+$secondary-text : #05b9f2;
+
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+// Then add additional custom code here
+
+//Styles
+body {
+    font-family: 'Montserrat',sans-serif;
+}
